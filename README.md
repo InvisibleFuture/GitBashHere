@@ -1,5 +1,8 @@
-# GitBashHere
-Git Bash Here
-git bash
-`cd ~`
-`vim .minttyrc`
+# Git bash here
+
+```bash
+code ~/.minttyrc
+```
+
+### font
+https://www.jetbrains.com/lp/mono/
